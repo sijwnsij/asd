@@ -1,3 +1,1 @@
-# asd
-asd
-https://github.com/TheMostBlack/AndLuaX
+https://github.com/nirenr/AndroLua_pro
